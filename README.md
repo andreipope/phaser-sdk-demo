@@ -1,7 +1,7 @@
 # Deprecated Repository
 
-This repository is **deprecated and no longer maintained**. To learn more about Loom.js, our JS library for building browser apps & NodeJS services that interact with Loom DAppChains check out [this page](https://github.com/loomnetwork/loom-js).
-
+This repository is **deprecated and no longer maintained**. Head over to
+[this page](https://loomx.io/developers/docs/en/join-testnet.html) to find out how you can join the Loom PlasmaChain Testnet.
 
 # PHASER SDK DEMO :crystal_ball: :dizzy:
 
